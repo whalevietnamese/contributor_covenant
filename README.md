@@ -1,4 +1,4 @@
-Contributor Covenant
+ Contributor Covenant
 ====================
 
 [![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21)](https://github.com/EthicalSource/contributor_covenant)
